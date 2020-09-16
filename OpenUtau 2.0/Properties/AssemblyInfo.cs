@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("OpenUtau 2.0")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This is a complete rebuild of the OpenUtau written by stakira. This aims to completely fix the issues that had, and make Utau a more user friendly experience.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("OpenUtau 2.0")]

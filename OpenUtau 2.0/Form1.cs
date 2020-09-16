@@ -32,5 +32,10 @@ namespace OpenUtau_2._0
             VersionWindow versionWindow = new VersionWindow();
             versionWindow.Show();
         }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
