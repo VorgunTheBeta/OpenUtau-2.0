@@ -26,5 +26,11 @@ namespace OpenUtau_2._0
         {
 
         }
+
+        private void versionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VersionWindow versionWindow = new VersionWindow();
+            versionWindow.Show();
+        }
     }
 }
