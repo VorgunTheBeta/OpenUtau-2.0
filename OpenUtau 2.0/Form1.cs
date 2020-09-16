@@ -37,5 +37,10 @@ namespace OpenUtau_2._0
         {
             Application.Exit();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
